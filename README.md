@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&color=33FF33&lines=currently:+spam)](https://git.io/typing-svg)
 
 <!--
 **mijnog/mijnog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
